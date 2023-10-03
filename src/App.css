@@ -1,0 +1,58 @@
+.image-clima{
+    background-image: url("/public/images/Image1.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.bgp{
+    background-color: rgba(0, 0, 0, 0.714);
+    background-blend-mode: overlay;
+}
+
+.Image1{
+    background-image: url("/public/images/Image1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.Image2{
+    background-image: url("/public/images/Image2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.Image3{
+    background-image: url("/public/images/Image3.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.Image4{
+    background-image: url("/public/images/Image4.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.Image5{
+    background-image: url("/public/images/Image5.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.Image6{
+    background-image: url("/public/images/Image6.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.Image7{
+    background-image: url("/public/images/Image7.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.Image8{
+    background-image: url("/public/images/Image8.jpg");
+    background-size: cover;
+    background-position: center;
+}   
+.Image9{
+    background-image: url("/public/images/Image9.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
